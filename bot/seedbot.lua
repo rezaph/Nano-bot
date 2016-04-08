@@ -213,6 +213,7 @@ function create_config( )
     "ingroup",
     "inpm",
     "banhammer",
+    "welcome",
     "stats",
     "anti_spam",
     "owners",
